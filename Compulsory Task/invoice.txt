@@ -1,0 +1,12 @@
+*** QUICK FOOD INVOICE ***
+Date: 2025-07-26 03:02:07
+
+Customer: neo
+Location: edenglen
+Contact: 0125433456
+
+Restaurant: KFC
+Location: Caraglen
+Contact: 0867898756
+
+Sorry! Our drivers are too far away to deliver to your location.
